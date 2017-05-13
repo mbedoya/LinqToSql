@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+LinqToSql.Common/bin
+LinqToSql.Common/obj
+LinqToSql.ConsoleApp/bin
+LinqToSql.ConsoleApp/obj
+LinqToSql.Data/bin
+LinqToSql.Data/obj
+
